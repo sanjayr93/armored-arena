@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 38c1bc61f130c65418533df67519f506
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armor
+    100002: //RootNode
+    100004: Body
+    100006: Doors
+    100008: Silencers
+    100010: Turret
+    100012: WheelFL
+    100014: WheelFR
+    100016: WheelRL
+    100018: WheelRR
+    400000: Armor
+    400002: //RootNode
+    400004: Body
+    400006: Doors
+    400008: Silencers
+    400010: Turret
+    400012: WheelFL
+    400014: WheelFR
+    400016: WheelRL
+    400018: WheelRR
+    2300000: Armor
+    2300002: Body
+    2300004: Doors
+    2300006: Silencers
+    2300008: Turret
+    2300010: WheelFL
+    2300012: WheelFR
+    2300014: WheelRL
+    2300016: WheelRR
+    3300000: Armor
+    3300002: Body
+    3300004: Doors
+    3300006: Silencers
+    3300008: Turret
+    3300010: WheelFL
+    3300012: WheelFR
+    3300014: WheelRL
+    3300016: WheelRR
+    4300000: Armor
+    4300002: Doors
+    4300004: Silencers
+    4300006: WheelRL
+    4300008: WheelRR
+    4300010: WheelFR
+    4300012: WheelFL
+    4300014: Body
+    4300016: Turret
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
